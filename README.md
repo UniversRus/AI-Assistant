@@ -1,4 +1,4 @@
-
+https://t.me/Masteronhour_bot
 ```markdown
 # Проект: "ИИ-ассистент для фирмы Мастер на час"
 
